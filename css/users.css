@@ -1,0 +1,17 @@
+
+.user {
+  border: 1px solid;
+  margin: 10px;
+  padding-bottom: 10px;
+}
+
+.user__name {
+  background-color: #ccc;
+  padding: 5px;
+}
+
+.user__position {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin: 10px;
+}
